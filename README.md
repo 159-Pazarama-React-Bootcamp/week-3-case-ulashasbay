@@ -18,3 +18,8 @@ bunlarin her biri bir bonus arkadaslar. Hepsi istege bagli. 🙂 Sorulariniz olu
 
 Tesekkurler
 Let's Begin 🤟🏻 🚀 
+# Öğrenci Notu : 
+https://firebase-auth-pazarama-react-ulas.netlify.app/ 
+
+local host da Facebook login çalışmamaktadır https gereksinimi nedeniyle
+
